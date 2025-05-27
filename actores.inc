@@ -1,3 +1,10 @@
+// JSON Plugin para Pawn:
+// https://github.com/Southclaws/pawn-json
+
+#include <json>
+
+
+
 #define MAX_ACTORES 128
 
 
